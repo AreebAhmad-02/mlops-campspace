@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Jupyter notebook checkpoints
+01-intro/.ipynb_checkpoints
+
+# OS or installer files
+Anaconda3-2022.05-Linux-x86_64.sh
+
+# Data and output artifacts
+02-experimentation/data/
+02-experimentation/output/
+02-experimentation/mlruns/
+02-experimentation/mlartifacts/
+02-experimentation/artifacts/
+02-experimentation/models/
+02-experimentation/backend.db
+
+# Global MLflow directory
+mlruns
