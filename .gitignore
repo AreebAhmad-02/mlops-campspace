@@ -2,7 +2,6 @@
 .venv/
 
 # Jupyter notebook checkpoints
-01-intro/.ipynb_checkpoints
 
 # OS or installer files
 Anaconda3-2022.05-Linux-x86_64.sh
